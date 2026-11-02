@@ -1,6 +1,6 @@
 // ===== CONFIG =====
 const WHATSAPP = '5541996654199';
-const INSTAGRAM_URL = '#'; // cole aqui o link do Instagram
+const INSTAGRAM_URL = 'https://www.instagram.com/rosadosventos_salaoebarbearia/'; // cole aqui o link do Instagram
 const FACEBOOK_URL = '#';  // cole aqui o link do Facebook
 
 // Horários: dia da semana (0=Dom ... 6=Sáb) -> [abre, fecha] em horas
